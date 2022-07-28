@@ -6,3 +6,5 @@ here is another line
 this line was added in my branch
 
 this line is nicer than the previous line
+
+hello new feature from my branch
